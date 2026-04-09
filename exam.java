@@ -17,6 +17,7 @@ class Potion {
 }
 
 class Monster {
+    System.out.println("몬스터를 잡았다.");
 
 }
 
